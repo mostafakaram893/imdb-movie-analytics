@@ -1,6 +1,6 @@
 # 🎬 IMDb Top 250 Movies - Analytics Dashboard
 
-An interactive **Power BI** dashboard exploring the **IMDb Top 250 movies** list: audience ratings, vote volumes, runtimes, content ratings, and release trends across decades.
+An interactive **Power BI** dashboard exploring the **IMDb Top 250 movies** list: audience ratings, vote volumes, runtimes, content ratings, and release trends across the decades.
 
 ![IMDb Top 250 Movies Dashboard](screenshots/top-250-movies-dashboard.png)
 
